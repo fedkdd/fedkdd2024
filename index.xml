@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FedKDD 2024</title>
-    <link>https://fedkdd.github.io/</link>
+    <link>https://fedkdd.github.io/fedkdd2024/</link>
     <description>Recent content on FedKDD 2024</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://fedkdd.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://fedkdd.github.io/fedkdd2024/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Terms &amp; Conditions</title>
-      <link>https://fedkdd.github.io/terms-and-conditions/</link>
+      <link>https://fedkdd.github.io/fedkdd2024/terms-and-conditions/</link>
       <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fedkdd.github.io/terms-and-conditions/</guid>
+      <guid>https://fedkdd.github.io/fedkdd2024/terms-and-conditions/</guid>
       <description>1. Definitions We collect certain identifying personal data when you sign up to our Service such as your name, email address, PayPal address (if different from email address), and telephone number. The personal data we collect from you is disclosed only in accordance with our Terms of Service and/or this Privacy Policy.Conclude collects Slack account and access information from Users for the purposes of connecting to the Slack API and to authenticate access to information on the Conclude website.</description>
     </item>
     
     <item>
       <title>Accepted Papers</title>
-      <link>https://fedkdd.github.io/papers/</link>
+      <link>https://fedkdd.github.io/fedkdd2024/papers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fedkdd.github.io/papers/</guid>
+      <guid>https://fedkdd.github.io/fedkdd2024/papers/</guid>
       <description>Oral  Subgraph Federated Learning for Local Generalization. Sungwon Kim, Yoonho Lee, Carl Yang, Yunhak Oh, Namkyeong Lee, Sukwon Yun, Junseok Lee, Sein Kim, Chanyoung Park  Poster Cooperative Multiple Model Training for Personalized Federated Learning over Heterogeneous Devices. Jian Xu, Shuo Wan, Yinchuan Li, Zhilin Chen, yunfeng shao, Zhitang Chen, Shao-Lun Huang Towards Federated Learning with on-device Training and Communication in 8-bit Floating Point. Bokun Wang, Axel Berg, Durmus Alp Emre Acar, Chuteng Zhou FedDr+: Stabilizing Dot-regression with Global Feature Distillation for Federated Learning.</description>
     </item>
     
     <item>
       <title>Call for Submissions</title>
-      <link>https://fedkdd.github.io/calls/</link>
+      <link>https://fedkdd.github.io/fedkdd2024/calls/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fedkdd.github.io/calls/</guid>
@@ -35,16 +35,16 @@
     
     <item>
       <title>Contact</title>
-      <link>https://fedkdd.github.io/contact/</link>
+      <link>https://fedkdd.github.io/fedkdd2024/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fedkdd.github.io/contact/</guid>
+      <guid>https://fedkdd.github.io/fedkdd2024/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Keynotes</title>
-      <link>https://fedkdd.github.io/speakers/</link>
+      <link>https://fedkdd.github.io/fedkdd2024/speakers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fedkdd.github.io/speakers/</guid>
@@ -53,7 +53,7 @@
     
     <item>
       <title>Organizers</title>
-      <link>https://fedkdd.github.io/organizers/</link>
+      <link>https://fedkdd.github.io/fedkdd2024/organizers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fedkdd.github.io/organizers/</guid>
@@ -62,7 +62,7 @@
     
     <item>
       <title>Panelist</title>
-      <link>https://fedkdd.github.io/panel/</link>
+      <link>https://fedkdd.github.io/fedkdd2024/panel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fedkdd.github.io/panel/</guid>
@@ -71,7 +71,7 @@
     
     <item>
       <title>Schedules</title>
-      <link>https://fedkdd.github.io/schedules/</link>
+      <link>https://fedkdd.github.io/fedkdd2024/schedules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fedkdd.github.io/schedules/</guid>
